@@ -1,0 +1,39 @@
+header {
+	min-height: 65%;
+}
+
+a.btn {
+	background-color: #273ba4;
+}
+
+#homeHeading {
+	color: #273ba4;
+}
+
+p {
+	color: #273ba4;
+}
+
+.bg-primary {
+	background-color: #273ba4;
+}
+
+hr {
+	border-color: #000000;
+}
+
+.fa {
+	color: #273ba4;
+}
+
+.navbar-default .nav>li.active>a, .navbar-default .nav>li.active {
+	color: #273ba4;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+	color: #273ba4;
+}
+
+a.page-scroll:hover {
+	color: #273ba4!important;
+}
