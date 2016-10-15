@@ -2,7 +2,7 @@
     <head>
     <title> Big O No  </title>
     <body>
-    <p>oh yeah oh yeah oh yeah</p>
+    <p>alright alright</p>
     <?php echo '<p> HackVT</p>' ;?>
     </body>
     </head>
