@@ -1,5 +1,5 @@
 <html>
     <head>
-    <p> MAP </P>
+    <p> i'm a map </P>
     </head
 </html>
