@@ -1,6 +1,6 @@
 # Hack VT 2016
 
-Description of HackVT
+HackVT Education Theme
 
 ## Description
 
